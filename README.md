@@ -19,9 +19,11 @@ To install bibtexparser, use pip
 
 # Template for bibtex
 
+we have three relevant 'publicationtype' values: accepted, bestpaper, bestposter
+
 ```
 @article{ln,
-publicationtype = {nonarchival},
+publicationtype = {accepted},
   pdf = {},
   poster = {},
   slides = {},
@@ -41,7 +43,7 @@ publicationtype = {nonarchival},
 
 ```
 @inproceedings{ln,
-publicationtype = {nonarchival},
+publicationtype = {accepted},
   pdf = {},
   poster = {},
   slides = {},
