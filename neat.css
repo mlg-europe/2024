@@ -19,6 +19,14 @@ h1 {
     line-height: 1.8;
 }
 
+h2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 40px;
+}
+
 button, input {
     font-size: 1em; /* Override browser default font shrinking*/
 }
@@ -126,7 +134,7 @@ button + button, .button + .button, input[type=submit] + input[type=submit] {
     }
 
     ul.organizers {
-        column-count: 2;
+        column-count: 3;
         list-style-type: none
     }
 

@@ -16,7 +16,7 @@ Mining and Learning with Graphs</h1>
 <img src="header.jpg" width="100%" height="auto" alt="Picture of Vilnius. Source: https://www.govilnius.lt/photos-of-vilnius?gallery=61714fc6e6288d4d14cb7b58&img=65a4f34bb0f1bcfb87ce7928">
 
 <ol class="threecol">
-  <li><a href="#about">About</a></li>
+  <!-- <li><a href="#about">About</a></li> -->
   <li><a href="#news">News and Dates</a></li>
   <li><a href="#call">Call for Papers</a></li>
   <li><a href="#schedule">Tentative Schedule</a></li>
@@ -35,9 +35,83 @@ Mining and Learning with Graphs</h1>
   <li>We will organize <a href="https://mlg-europe.github.io">MLG@ECMLPKDD 2024</a>, the 22th Workshop on Mining and Learning with Graphs. Join us for interesting discussions about graphs in Vilnius, Lithuania!</li>
 </ol>
 
-<h2 id="about">About</h2>
+<!-- <h2 id="about">About</h2> -->
 
 <h2 id="call">Call for Papers</h2>
+
+<p>This workshop is a forum for exchanging ideas and methods for mining and learning with graphs, developing new common understandings of the problems at hand, sharing data sets where applicable, and leveraging existing knowledge from different disciplines. The goal is to bring together researchers from academia and industry to create a forum for discussing recent advances in graph analysis. 
+In doing so, we aim to understand better the overarching principles and the limitations of current methods and to inspire research on new algorithms and techniques for mining and learning with graphs.</p>
+
+<p>To reflect the broad scope of work on mining and learning with graphs, we encourage submissions that span the spectrum from theoretical analysis to algorithms and implementation to applications and empirical studies. 
+We are interested in the full spectrum of graph data, including but not limited to attributed graphs, labeled graphs, knowledge graphs, evolving graphs, transactional graph databases, etc.</p>
+
+<p><b>We therefore invite submissions on <i>theoretical aspects, algorithms and methods</i>, and <i>applications</i> of the following (non-exhaustive) list of areas:</b></p>
+
+<ul>    
+    <li> Computational or statistical learning theory related to graphs
+    </li>
+    <li> Theoretical analysis of graph algorithms or models
+    </li>
+    <li> Semi-supervised learning, online learning, active learning, transductive inference, and transfer learning in the context of graphs
+    </li>
+    <li> Unsupervised learning and graph clustering
+    </li>
+    <li> Interesting pattern mining on graphs and community detection
+    </li>
+    <li> Graph kernels and metric learning on graphs
+    </li>
+    <li> Graph and vertex embeddings and representation learning on graphs
+    </li>
+    <li> Solving combinatorial problems on graphs with ML / data-driven combinatorial optimization
+    </li>
+    <li> Explainable, fair, robust, and/or privacy-preserving ML on graphs
+    </li>
+    <li> Statistical models of graphs and graph sampling
+
+    </li>
+    <li> Analysis of social media, chemical or biological networks, infrastructure networks, knowledge graphs
+    </li>
+    <li> Benchmarking aspects of graph-based learning
+    </li>
+    <li> Libraries and tools for all of the above areas
+    </li>
+</ul>
+
+<p><b>We welcome many kinds of papers, such as, but not limited to:</b></p>
+
+<ul>
+    <li> Novel research papers
+    </li>
+    <li> Demo papers
+    </li>
+    <li> Dataset papers
+    </li>
+    <li> Work-in-progress papers
+    </li>
+    <li> Visionary papers (white papers)
+    </li>
+    <li> Appraisal papers of existing methods and tools (e.g., lessons learned)
+    </li>
+    <li> Relevant work that has been previously published
+    </li>
+    <li> Work that will be presented at the main conference (can be submitted with the regular 16-page limit of ECMLPKDD)
+    </li>
+</ul>
+
+<p>Authors should clearly indicate in their abstracts the kinds of submissions that the papers belong to, to help reviewers better understand their contributions.
+All papers will be peer-reviewed (single-blind). 
+Submissions must be in PDF, long papers no more than 12 pages long, short papers no more than 8 pages long, formatted according to the standard Springer LNCS style required for ECMLPKDD submissions.
+The accepted papers will be published on the workshop’s website and will not be considered archival for resubmission purposes.
+Authors whose papers are accepted to the workshop will have the opportunity to participate in a pitch and poster session, and the best four will also be chosen for oral presentation.</p>
+
+<p><b>Dual Submission Policy</b>
+We accept submissions that are currently under review at other venues. 
+However, in this case, our page limits apply.
+Please also check the dual submission policy of the other venue.</p>
+
+
+
+
 
 <h2 id="schedule">Tentative Schedule</h2>
 
@@ -80,19 +154,9 @@ Mining and Learning with Graphs</h1>
 
 <ul class="organizers">
 <li class="center">
-  <img src="alice.jpg" width="150px" height="auto"><br/>
-  <a href="https://gain-group.de/html/members.html" target=_blank>Alice Moallemy-Oureh</a><br />
-  University of Kassel
-</li>
-<li class="center">
-  <img src="pascal.jpg" width="150px" height="auto"><br/>
-  <a href="https://gain-group.de/html/members.html" target=_blank>Pascal Welke</a><br />
-  TU Wien
-</li>
-<li class="center">
-  <img src="max.jpg" width="150px" height="auto"><br/>
-  <a href="https://maxthiessen.github.io" target=_blank>Maximilian Thiessen</a><br />
-  TU Wien
+  <img src="franka.jpg" width="150px" height="auto"><br/>
+  <a href="https://thomasgaertner.org" target=_blank>Franka Bause</a><br />
+  University of Vienna
 </li>
 <li class="center">
   <img src="thomas.jpg" width="150px" height="auto"><br/>
@@ -105,11 +169,20 @@ Mining and Learning with Graphs</h1>
   University of Vienna
 </li>
 <li class="center">
-  <img src="franka.jpg" width="150px" height="auto"><br/>
-  <a href="https://thomasgaertner.org" target=_blank>Franka Bause</a><br />
-  University of Vienna
+  <img src="alice.jpg" width="150px" height="auto"><br/>
+  <a href="https://gain-group.de/html/members.html" target=_blank>Alice Moallemy-Oureh</a><br />
+  University of Kassel
 </li>
-
+<li class="center">
+  <img src="max.jpg" width="150px" height="auto"><br/>
+  <a href="https://maxthiessen.github.io" target=_blank>Maximilian Thiessen</a><br />
+  TU Wien
+</li>
+<li class="center">
+  <img src="pascal.jpg" width="150px" height="auto"><br/>
+  <a href="https://gain-group.de/html/members.html" target=_blank>Pascal Welke</a><br />
+  TU Wien
+</li>
 </ul>
 
 <h2 id="pc">Program Committee</h2>
