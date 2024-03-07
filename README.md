@@ -1,7 +1,23 @@
-# Hints for my Website
+# Hints for the Website
 
 This is supposed to be a very lightweight thing. 
 Static site generation at its minimum, basically hand written html with generated bibliography.
+
+to update the page, edit ```index.html_template``` and ```acceptedpapers.bib```
+
+then, (locally), run
+
+```
+python poormans_page_generator.py
+``` 
+
+and push the changes to the repo:
+
+```
+git add *
+git commit -m 'I updated the page'
+git push
+```
 
 
 # Requirements and build
