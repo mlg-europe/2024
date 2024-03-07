@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+
+<head>
+    <title>MLG 2024</title>
+    <link rel="stylesheet" type="text/css" href="neat.css">
+    <link rel="icon" type="image/x-icon" href="favicon.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+</head>
+
+<body>
+
+<h1 id="about">20th International Workshop on
+Mining and Learning with Graphs</h1>
+
+<img src="header.jpg" width="100%" height="auto">
+
+<ol class="twocol">
+  <li><a href="#news">News</a></li>
+  <li><a href="#about">About</a></li>
+  <li><a href="#call">Call for Papers</a></li>
+  <li><a href="#schedule">Tentative Schedule</a></li>
+  <li><a href="#accepted">Accepted Papers</a></li>
+  <li><a href="#awards">Awards</a></li>
+  <li><a href="#contact">Organizers</a></li>
+  <li><a href="#history">Previous Workshops</a></li>
+  <!--<li><a href="#nonarchival">Non-Archival Venues</a></li>
+  <li><a href="#lecturenotes">Lecture Notes and Coding Nuggets</a></li>
+  <li><a href="#activities">Community  Activities</a></li>-->
+</ol>
+
+<h2 id="news">News</h2>
+<ol>
+  <li>We will organize <a href="https://mlg-europe.github.io">MLG@ECMLPKDD 2024</a>, the 22th Workshop on Mining and Learning with Graphs. Join us for interesting discussions about graphs in Vilnius, Lithuania!</li>
+</ol>
+
+<h2 id="about">About</h2>
+
+<h2 id="call">Call for Papers</h2>
+
+<h2 id="schedule">Tentative Schedule</h2>
+
+
+<h2 id="accepted">Accepted Papers</h2>
+<object type="text/html" data="accepted.html_part"></object>
+
+<h2 id="awards">Awards</h2>
+
+<p>We plan to offer a best paper award based on reviewer scores, as well as a best poster award. The best poster will be selected by the audience among all posters presented at the workshop. We thank Astra Zeneca for the generous sponsorship of our two awards!</p>
+
+<h3> Best Paper</h3>
+<object type="text/html" data="bestpaper.html_part"></object>
+
+<h3> Best Poster</h3>
+<object type="text/html" data="bestposter.html_part"></object>
+
+
+<h2 id="contact">Organizers</h2>
+<p>
+</p>
+
+
+<p class="discreet">This page tries to be minimalistic in layout, bandwith, and used tools. It is hosted on <a href="https://github.com/pwelke/pwelke.github.io">github pages</a>, using <a href="https://neat.joeldare.com/">neat.css</a> stylesheets, and <a href="https://bibtexparser.readthedocs.org">bibtexparser</a> to generate the lists of references.</p>
+
+</body>
+
+</html>
