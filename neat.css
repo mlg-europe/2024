@@ -15,6 +15,10 @@
     color: var(--dark);
 }
 
+h1 {
+    line-height: 1.8;
+}
+
 button, input {
     font-size: 1em; /* Override browser default font shrinking*/
 }
@@ -63,9 +67,6 @@ td {
     min-width: 6em;
 }
 
-li.center {
-  text-align: center;
-}
 /* end of changes by pascal */
 
 button, .button, input[type=submit] {
@@ -95,6 +96,8 @@ button + button, .button + .button, input[type=submit] + input[type=submit] {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
+    margin-bottom: 20px;
+
 }
 
 .bordered {
