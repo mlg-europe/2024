@@ -53,11 +53,20 @@ img {
     border-radius: 50%;
 }
 
-/* changes by pascal */
 p.discreet {
     font-size: 0.8em;
     margin-top: 0%;
 }
+
+
+td {
+    min-width: 6em;
+}
+
+li.center {
+  text-align: center;
+}
+/* end of changes by pascal */
 
 button, .button, input[type=submit] {
     display: inline-block;
@@ -108,7 +117,17 @@ button + button, .button + .button, input[type=submit] + input[type=submit] {
     ol.twocol {
         column-count: 2;
     }
-    
+
+    ol.threecol {
+        column-count: 3;
+    }
+
+    ul.organizers {
+        column-count: 2;
+        list-style-type: none
+    }
+
+
     .row {
         display: flex;
         flex-direction: row;
