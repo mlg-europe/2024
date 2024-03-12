@@ -4,7 +4,7 @@
     --lesslight: #efefef;
     --dark: #404040;
     --moredark: #000;
-    border-top: 5px solid var(--dark);
+/*    border-top: 5px solid var(--dark);*/
     line-height: 1.5em; /* This causes wrapping h1's to collapse too small */
     font-family: sans-serif;
     font-size: 16px;
@@ -15,11 +15,17 @@
     color: var(--dark);
 }
 
+a {
+    color: #16A085;
+}
+
 h1 {
     line-height: 1.8;
+    color: #900C3F;
 }
 
 h2 {
+    color: #900C3F;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -134,10 +140,10 @@ button + button, .button + .button, input[type=submit] + input[type=submit] {
     }
 
     ul.organizers {
+
         column-count: 3;
         list-style-type: none
     }
-
 
     .row {
         display: flex;
