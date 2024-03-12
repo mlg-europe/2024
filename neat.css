@@ -139,10 +139,22 @@ button + button, .button + .button, input[type=submit] + input[type=submit] {
         column-count: 3;
     }
 
-    ul.organizers {
+   /* ul.organizers {
 
         column-count: 3;
         list-style-type: none
+    }*/
+
+
+    .organizers {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(min(100%/2, max(64px, 100%/3)), 1fr));
+    }
+
+    .child {
+      width: 64px;
+      height: 64px;
+      max-width: 100%;
     }
 
     .row {
