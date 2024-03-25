@@ -32,7 +32,7 @@ Mining and Learning with Graphs</h1>
 
 <center><em>9th or 13th September (2024), Vilnius, jointly with <a href="https://2024.ecmlpkdd.org/" target=_blank>ECMLPKDD2024</a></em></center> <br />
 
-<img src="header.jpg" width="100%" height="auto" alt="Picture of Vilnius. Source: https://www.govilnius.lt/photos-of-vilnius?gallery=61714fc6e6288d4d14cb7b58&img=65a4f34bb0f1bcfb87ce7928">
+<img src="header.jpg" class="rect" width="100%" height="auto" alt="Picture of Vilnius. Source: https://www.govilnius.lt/photos-of-vilnius?gallery=61714fc6e6288d4d14cb7b58&img=65a4f34bb0f1bcfb87ce7928">
 
 <!--
 
@@ -143,7 +143,7 @@ Please also check the dual submission policy of the other venue.</p>
 <h2 id="astratrack">AstraZeneca Healthcare & Bio Track</h2>
 We are happy to announce the additional Healthcare and Chem/Bio applications track, which is genereously sponsored by AstraZeneca. Authors will have the options to flag if they want to be considered for this track. The graph learning / mining paper that has the most convincing healthcare / chem / bio application will receive an award. <br />
 
-<center><img src="AstraZeneca_Logo_2D.png" width="300px"/></center>
+<center><img src="AstraZeneca_Logo_2D.png" class="rect" width="300px"/></center>
 
 
 <h2 id="schedule">Tentative Schedule</h2>
