@@ -148,6 +148,14 @@ button + button, .button + .button, input[type=submit] + input[type=submit] {
         column-count: 3;
     }
 
+    ul.twocol {
+        column-count: 2;
+    }
+
+    ul.threecol {
+        column-count: 3;
+    }
+
    /* ul.organizers {
 
         column-count: 3;

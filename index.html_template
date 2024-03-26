@@ -221,7 +221,7 @@ We are happy to announce the additional Healthcare and Chem/Bio applications tra
 </ul>
 
 <h2 id="pc">Program Committee</h2>
-<ul>
+<ul class="twocol">
 <li>Andreas Roth <i>(TU Dortmund)</i></li>
 <li>Antonio Longa <i>(University of Trento)</i></li>
 <li>Atsushi Miyauchi <i>(CentAI)</i></li>
