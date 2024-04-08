@@ -27,12 +27,12 @@
 </ol>
 
 
-<h1 id="about">22th International Workshop on
+<h1 id="about">22nd International Workshop on
 Mining and Learning with Graphs</h1>
 
 <center><em>9th or 13th September (2024), Vilnius, jointly with <a href="https://2024.ecmlpkdd.org/" target=_blank>ECMLPKDD2024</a></em></center> <br />
 
-<img src="header.jpg" class="rect" width="100%" height="auto" alt="Picture of Vilnius. Source: https://www.govilnius.lt/photos-of-vilnius?gallery=61714fc6e6288d4d14cb7b58&img=65a4f34bb0f1bcfb87ce7928">
+<img src="header.jpg" class="headerimg" width="70%" height="auto" alt="Picture of Vilnius. Source: https://www.govilnius.lt/photos-of-vilnius?gallery=61714fc6e6288d4d14cb7b58&img=65a4f34bb0f1bcfb87ce7928">
 
 <!--
 
@@ -45,7 +45,7 @@ Mining and Learning with Graphs</h1>
 
 <h2 id="dates">Tentative Dates</h2>
 
-<ul>
+<ul class="centered">
   <li><strong>Paper submission deadline</strong>: 15.06.2024</li>
   <li><strong>Acceptance notification</strong>: 15.07.2024</li>
   <li><strong>Workshop date</strong> 9. or 13.09.2024</li>
@@ -148,7 +148,7 @@ We are happy to announce the additional Healthcare and Chem/Bio applications tra
 
 <h2 id="schedule">Tentative Schedule</h2>
 
-<table>
+<table class="centered">
     <!-- <tr><th></th><th>Tentative Schedule</th> </tr> -->
     <tr><td>9.00h</td> <td> introduction</td> </tr>
     <tr><td>9.05h</td> <td> keynote 1</td> </tr>
@@ -165,6 +165,7 @@ We are happy to announce the additional Healthcare and Chem/Bio applications tra
     <tr><td>17.15h</td> <td> poster session (group B)</td> </tr>
     <tr><td>18.15h</td> <td> conclusion and awards</td> </tr> 
 </table>
+
 
 
 
@@ -257,7 +258,7 @@ We are happy to announce the additional Healthcare and Chem/Bio applications tra
 
 
 <h2 id="history">Previous Workshops</h2>
-<ul>
+<ul class="centered">
   <li><a href=https://mlg-europe.github.io/2023/ target=_blank rel=noopener>2023, Torino, Italy (co-located with ECMLPKDD)</a></li>
   <li><a href=http://www.mlgworkshop.org/2023/ target=_blank rel=noopener>2023, Long Beach, USA (co-located with KDD)</a></li>
   <li><a href=https://mlg-europe.github.io/2022/ target=_blank rel=noopener>2022, Grenoble, France (co-located with ECMLPKDD)</a></li>
@@ -281,7 +282,7 @@ We are happy to announce the additional Healthcare and Chem/Bio applications tra
 
 
 <!-- the footer -->
-<p class="discreet">This page tries to be minimalistic in layout, bandwith, and used tools. It is hosted on <a href="https://github.com/pwelke/pwelke.github.io">github pages</a>, using <a href="https://neat.joeldare.com/">neat.css</a> stylesheets, and <a href="https://bibtexparser.readthedocs.org">bibtexparser</a> to generate the lists of papers.</p>
+<p class="discreet">This page tries to be minimalistic in layout, bandwith, and used tools. It is hosted on <a href="https://github.com/mlg-europe">github pages</a>, using <a href="https://neat.joeldare.com/">neat.css</a> stylesheets, and <a href="https://bibtexparser.readthedocs.org">bibtexparser</a> to generate the lists of papers.</p>
 
 </body>
 
