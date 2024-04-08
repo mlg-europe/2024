@@ -80,6 +80,16 @@ img.rect {
     border-radius: 0px;
 }
 
+
+
+img.headerimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    border-radius: 60%;
+}
+
 p.discreet {
     font-size: 0.8em;
     margin-top: 0%;
