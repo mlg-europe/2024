@@ -11,7 +11,6 @@
 <body>
 
 <ol class="threecol">
-  <!-- <li><a href="#about">About</a></li> -->
   <li><a href="#dates">Dates</a></li>
   <li><a href="#keynotes">Keynote Speakers</a></li>
   <li><a href="#call">Call for Papers</a></li>
@@ -19,18 +18,14 @@
   <!--<li><a href="#accepted">Accepted Papers</a></li>
   <li><a href="#awards">Awards</a></li>-->
   <li><a href="#contact">Organizers and PC</a></li>
-  <!--<li><a href="#pc">Program Committee</a></li>-->
   <li><a href="#history">Previous Workshops</a></li>
-  <!--<li><a href="#nonarchival">Non-Archival Venues</a></li>
-  <li><a href="#lecturenotes">Lecture Notes and Coding Nuggets</a></li>
-  <li><a href="#activities">Community  Activities</a></li>-->
 </ol>
 
 
 <h1 id="about">21st International Workshop on
 Mining and Learning with Graphs</h1>
 
-<center><em>9th or 13th September (2024), Vilnius, jointly with <a href="https://2024.ecmlpkdd.org/" target=_blank>ECMLPKDD2024</a></em></center> <br />
+<center><em>9th September (2024), Vilnius, jointly with <a href="https://2024.ecmlpkdd.org/" target=_blank>ECMLPKDD2024</a></em></center> <br />
 
 <img src="header.jpg" class="headerimg" width="70%" height="auto" alt="Picture of Vilnius. Source: https://www.govilnius.lt/photos-of-vilnius?gallery=61714fc6e6288d4d14cb7b58&img=65a4f34bb0f1bcfb87ce7928">
 
@@ -43,12 +38,12 @@ Mining and Learning with Graphs</h1>
 
 -->
 
-<h2 id="dates">Tentative Dates</h2>
+<h2 id="dates">Important Dates</h2>
 
 <ul class="centered">
-  <li><strong>Paper <a href="https://cmt3.research.microsoft.com/ECMLPKDDWorkshops2024/">submission</a> deadline</strong>: 15.06.2024</li>
-  <li><strong>Acceptance notification</strong>: 15.07.2024</li>
-  <li><strong>Workshop date</strong> 9. or 13.09.2024</li>
+  <li><strong>Paper <a href="https://cmt3.research.microsoft.com/ECMLPKDDWorkshops2024/">Submission</a> deadline</strong>: 15.06.2024</li>
+  <li><strong>Paper acceptance notification</strong>: 15.07.2024</li>
+  <li><strong>Workshop date</strong> Monday, 09.09.2024</li>
 </ul>
 
 <h2 id="keynotes">Keynote Speakers</h2>
@@ -65,7 +60,6 @@ Mining and Learning with Graphs</h1>
   Technion & NVIDIA
 </ul>
 
-<!-- <h2 id="about">About</h2> -->
 
 <h2 id="call">Call for Papers</h2>
 
