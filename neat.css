@@ -177,6 +177,10 @@ button + button, .button + .button, input[type=submit] + input[type=submit] {
         list-style-type: none
     }*/
 
+    .keynotes {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(64px, max(64px, 100%/3)), 1fr));
+    }
     .organizers {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(min(100%/2, max(64px, 100%/3)), 1fr));
