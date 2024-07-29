@@ -48,16 +48,27 @@ Mining and Learning with Graphs</h1>
 
 <h2 id="keynotes">Keynote Speakers</h2>
 
-<ul class="organizers">
+<ul class="keynotes">
 <li class="center">
   <img src="yllka_crop.jpeg" width="150px" height="auto"><br/>
   <a href="https://dm.cs.univie.ac.at/team/person/111869/" target=_blank>Yllka Velaj</a><br />
   University of Vienna
 </li>
 <li class="center">
+  <h3>Embedding and Clustering of Attributed Multiplex Networks</h3>
+  <p>Complex information can be represented as networks (graphs) characterized by multiple types of nodes and relationships between them, i.e. multiplex networks.
+  Additionally, these networks are enriched with different types of node features and labels. In this talk, I will present an embedding approach for Attributed Multiplex Networks, to jointly embed nodes and node attributes of multiplex networks in a low dimensional space. The experiments show that the proposed approach outperforms state-of-the-art methods for downstream tasks such as semi-supervised node classification and node clustering. 
+  </p> 
+</li>
+<li class="center">
   <img src="haggai.png" width="150px" height="auto"><br/>
   <a href="https://haggaim.github.io/" target=_blank>Haggai Maron</a><br />
   Technion & NVIDIA
+</li>
+<li class="center">
+  <h3>Exploiting Symmetries for Learning in Deep Weight Spaces</h3>
+  <p>This talk explores the emerging research direction that studies neural network weights as a novel data modality. We'll discuss recent advances in processing and analyzing raw weight matrices, which exhibit inherent symmetries reminiscent of other structured data types such as graphs. Our focus will be on designing deep architectures that effectively operate on weight spaces while respecting these symmetries. We'll present our ICML 2023 work on equivariant architectures for processing multilayer perceptron weight spaces, and our ICLR 2024 research on Graph Metanetworks (GMN), which generalizes this approach to diverse network architectures by representing them as graphs. Additionally, we'll touch on our recent ICML 2024 works exploring data augmentations in weight spaces and data-driven network alignment. These developments open new possibilities for deep network analysis, editing, and manipulation, with applications ranging from Implicit Neural Representation editing to weight pruning and function manipulation.
+  </p>
 </ul>
 
 
