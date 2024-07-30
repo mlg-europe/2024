@@ -9,7 +9,7 @@ from bibtexparser.bparser import BibTexParser
 def filter_pubtype(list, pubtype):
     '''filter by pubtype and sort in reverse chronological order'''
     filtered_list = [b for b in list if b['publicationtype'] == pubtype]
-    return sorted(filtered_list, key=lambda b: b['year'], reverse=True)
+    return sorted(filtered_list, key=lambda b: b['author'], reverse=False)
 
 def nonempty(string, item):
     return (string in item) and (item[string] != '')
@@ -71,6 +71,9 @@ def format_bibitem(item, format):
 
     # footer row with optionals
     s += cf('<p class="discreet">\n', f'{{\\footnotesize\n', format)
+
+    if nonempty('postersession', item):
+        s += cf(f'[group {item["postersession"]}]\n', f'[group {item["postersession"]}]\n', format)
     if nonempty('pdf', item):
         s += cf(f'[<a href="{item["pdf"]}">pdf</a>]\n', f'[\\href{{{item["pdf"]}}}{{pdf}}]\n', format)
     if nonempty('poster', item):
