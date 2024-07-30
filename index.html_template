@@ -177,29 +177,35 @@ We are happy to announce the additional Healthcare and Chem/Bio applications tra
     <tr><td>17.15h</td> <td> poster session (group B)</td> </tr>
     <tr><td>18.15h</td> <td> conclusion and awards</td> </tr>  -->
 
-    <tr><td>9.00h</td> <td> Introduction</td> </tr>
-    <tr><td>9.05h</td> <td> Keynote<br /><b>Yllka Velaj</b>: Embedding and Clustering of Attributed Multiplex Networks</td> </tr>
-    <tr><td>10.05h</td> <td> Contributed Talk<br />
-    <b>Yang et al.</b>: Inductive Anomaly Detection in Dynamic Graphs with Accumulative Causal Walk Alignment  
+    <tr><td valign="top">9.00h</td> <td> Introduction</td> </tr>
+    <tr><td valign="top">9.05h</td> <td> Keynote<br /><b>Yllka Velaj</b>:<br />
+    Embedding and Clustering of Attributed Multiplex Networks</td> </tr>
+    <tr><td valign="top">10.05h</td> <td> Contributed Talk<br />
+    <b>Leshanshui Yang, Clement Chatelain, Sebastien Adam</b>:<br />
+    Inductive Anomaly Detection in Dynamic Graphs with Accumulative Causal Walk Alignment  
     </td> </tr>
-    <tr><td>10.20h</td> <td> Contributed Talk<br />
-      <b>Köhler et al.</b>: Fused Gromov-Wasserstein Distance for Heterogeneous and Temporal Graphs
+    <tr><td valign="top">10.20h</td> <td> Contributed Talk<br />
+      <b> Dominik Köhler, Silvia Beddar-Wiesing</b>:<br /> 
+      Fused Gromov-Wasserstein Distance for Heterogeneous and Temporal Graphs
     </td> </tr>
-    <tr><td>10.35h</td> <td> Pitch Talks (group A)</td> </tr>
-    <!-- <tr><td>11.00h</td> <td>  break</td> </tr> -->
-    <tr><td>11.00h</td> <td> Coffee + Poster Session (group A)</td> </tr>
-    <tr><td>12.30h</td> <td> Lunch Break</td> </tr>
-    <tr><td>14.00h</td> <td> Keynote<br /><b>Haggai Maron</b>: Exploiting Symmetries for Learning in Deep Weight Spaces</td> </tr>
-    <tr><td>15.00h</td> <td> Contributed Talk<br />
-      <b>Snelleman et al.</b>: Edge-Based Graph Component Pooling
+    <tr><td valign="top">10.35h</td> <td> Pitch Talks (group A)</td> </tr>
+    <!-- <tr><td valign="top">11.00h</td> <td>  break</td> </tr> -->
+    <tr><td valign="top">11.00h</td> <td> Coffee + Poster Session (group A)</td> </tr>
+    <tr><td valign="top">12.30h</td> <td> Lunch Break</td> </tr>
+    <tr><td valign="top">14.00h</td> <td> Keynote<br /><b>Haggai Maron</b>:<br />
+    Exploiting Symmetries for Learning in Deep Weight Spaces</td> </tr>
+    <tr><td valign="top">15.00h</td> <td> Contributed Talk<br />
+      <b>Thijs Snelleman, Bram M Renting, Holger Hoos, Jan N. Van Rijn</b>:<br />
+      Edge-Based Graph Component Pooling
     </td> </tr>
-    <tr><td>15.15h</td> <td> Contributed Talk<br />
-      <b>Vonessen et al.</b>: Next Level Message-Passing with Hierarchical Support Graphs
+    <tr><td valign="top">15.15h</td> <td> Contributed Talk<br />
+      <b> Carlos C. Vonessen Wilson, Florian Grötschla, Roger Wattenhofer</b>:<br />
+      Next Level Message-Passing with Hierarchical Support Graphs
     </td> </tr>
-    <tr><td>15.30h</td> <td> Pitch Talks (group B)</td> </tr>
-    <tr><td>16.00h</td> <td> Coffee + Soster Session (group B) </td> </tr>
-    <!-- <tr><td>17.15h</td> <td> poster session (group B)</td> </tr> -->
-    <tr><td>17.35h</td> <td> Conclusion and Awards</td> </tr> 
+    <tr><td valign="top">15.30h</td> <td> Pitch Talks (group B)</td> </tr>
+    <tr><td valign="top">16.00h</td> <td> Coffee + Soster Session (group B) </td> </tr>
+    <!-- <tr><td valign="top">17.15h</td> <td> poster session (group B)</td> </tr> -->
+    <tr><td valign="top">17.35h</td> <td> Conclusion and Awards</td> </tr> 
 </table>
 
 
