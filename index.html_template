@@ -177,42 +177,44 @@ We are happy to announce the additional Healthcare and Chem/Bio applications tra
     <tr><td>17.15h</td> <td> poster session (group B)</td> </tr>
     <tr><td>18.15h</td> <td> conclusion and awards</td> </tr>  -->
 
-    <tr><td valign="top">9.00h</td> <td> Introduction</td> </tr>
-    <tr><td valign="top">9.05h</td> <td> Keynote<br /><b>Yllka Velaj</b>:<br />
-    Embedding and Clustering of Attributed Multiplex Networks</td> </tr>
-    <tr><td valign="top">10.05h</td> <td> Contributed Talk<br />
-    <b>Leshanshui Yang, Clement Chatelain, Sebastien Adam</b>:<br />
-    Inductive Anomaly Detection in Dynamic Graphs with Accumulative Causal Walk Alignment  
+    <tr><td valign="top">9.00h</td> <td> <b>Introduction</td> </tr>
+    <tr><td valign="top">9.05h</td> <td> <b>Keynote</b><br />
+      Yllka Velaj:<br />
+      Embedding and Clustering of Attributed Multiplex Networks</td> </tr>
+    <tr><td valign="top">10.05h</td> <td> <b>Contributed Talk</b><br />
+      Leshanshui Yang, Clement Chatelain, Sebastien Adam:<br />
+      Inductive Anomaly Detection in Dynamic Graphs with Accumulative Causal Walk Alignment  
     </td> </tr>
-    <tr><td valign="top">10.20h</td> <td> Contributed Talk<br />
-      <b>Silvia Beddar-Wiesing, Dominik Köhler</b>:<br /> 
+    <tr><td valign="top">10.20h</td> <td> <b>Contributed Talk</b><br />
+      Silvia Beddar-Wiesing, Dominik Köhler:<br /> 
       Fused Gromov-Wasserstein Distance for Heterogeneous and Temporal Graphs
     </td> </tr>
-    <tr><td valign="top">10.35h</td> <td> Pitch Talks (group A)</td> </tr>
+    <tr><td valign="top">10.35h</td> <td> <b>Pitch Talks (group A)</b></td> </tr>
     <!-- <tr><td valign="top">11.00h</td> <td>  break</td> </tr> -->
-    <tr><td valign="top">11.00h</td> <td> Coffee + Poster Session (group A)</td> </tr>
-    <tr><td valign="top">12.30h</td> <td> Lunch Break</td> </tr>
-    <tr><td valign="top">14.00h</td> <td> Keynote<br /><b>Haggai Maron</b>:<br />
-    Exploiting Symmetries for Learning in Deep Weight Spaces</td> </tr>
-    <tr><td valign="top">15.00h</td> <td> Contributed Talk<br />
-      <b>Thijs Snelleman, Bram M Renting, Holger Hoos, Jan N. Van Rijn</b>:<br />
-      Edge-Based Graph Component Pooling
-    </td> </tr>
-    <tr><td valign="top">15.15h</td> <td> Contributed Talk<br />
-      <b> Carlos C. Vonessen Wilson, Florian Grötschla, Roger Wattenhofer</b>:<br />
-      Next Level Message-Passing with Hierarchical Support Graphs
-    </td> </tr>
-    <tr><td valign="top">15.30h</td> <td> Pitch Talks (group B)</td> </tr>
-    <tr><td valign="top">16.00h</td> <td> Coffee + Soster Session (group B) </td> </tr>
-    <!-- <tr><td valign="top">17.15h</td> <td> poster session (group B)</td> </tr> -->
-    <tr><td valign="top">17.20h</td> <td>Contributed Talk<br /> 
-      <b>Andreas Roth, Franka Bause, Nils M Kriege, Thomas Liebig</b>:<br />
+    <tr><td valign="top">11.00h</td> <td> <b>Coffee + Poster Session (group A)</b></td> </tr>
+    <tr><td valign="top">12.30h</td> <td><b>Contributed Talk</b><br /> 
+      Andreas Roth, Franka Bause, Nils M Kriege, Thomas Liebig:<br />
       Message-Passing on Directed Acyclic Graphs Prevents Over-Smoothing.</td></tr>
-    <tr><td valign="top">17.35h</td> <td> Contributed Talk<br /> 
-      <b>Pavel Procházka, Marek Dědič, Lukáš Bajer</b>:<br />
+    <tr><td valign="top">12.45h</td> <td> <b>Contributed Talk</b><br /> 
+      Pavel Procházka, Marek Dědič, Lukáš Bajer:<br />
       Convolutional Signal Propagation: A Simple Scalable Algorithm for Hyper-Graphs.
     </td></tr>
-    <tr><td valign="top">17.50h</td> <td> Conclusion and Awards</td> </tr> 
+    <tr><td valign="top">13.00h</td> <td> <b>Lunch Break</b></td> </tr>
+    <tr><td valign="top">14.00h</td> <td> <b>Keynote</b><br />
+      Haggai Maron:<br />
+      Exploiting Symmetries for Learning in Deep Weight Spaces</td> </tr>
+    <tr><td valign="top">15.00h</td> <td> <b>Contributed Talk</b><br />
+      Thijs Snelleman, Bram M Renting, Holger Hoos, Jan N. Van Rijn:<br />
+      Edge-Based Graph Component Pooling
+    </td> </tr>
+    <tr><td valign="top">15.15h</td> <td> <b>Contributed Talk</b><br />
+      Carlos C. Vonessen Wilson, Florian Grötschla, Roger Wattenhofer:<br />
+      Next Level Message-Passing with Hierarchical Support Graphs
+    </td> </tr>
+    <tr><td valign="top">15.30h</td> <td> <b>Pitch Talks (group B)</b></td> </tr>
+    <tr><td valign="top">16.00h</td> <td> <b>Coffee + Poster Session (group B)</b> </td> </tr>
+    <!-- <tr><td valign="top">17.15h</td> <td> poster session (group B)</td> </tr> -->
+    <tr><td valign="top">17.45h</td> <td> <b>Conclusion and Awards</b></td> </tr> 
 </table>
 
 
