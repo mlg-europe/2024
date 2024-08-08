@@ -55,6 +55,6 @@ def compile_latex(template, pubtypes):
 
 if __name__ == '__main__':
 	# specify the categories
-	pubtypes = ['accepted', 'oral', 'bestpaper', 'bestposter']
+	pubtypes = ['accepted', 'oral', 'bestpaper', 'bestposter', 'invited']
 
 	create_homepage(pubtypes)
